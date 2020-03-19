@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/eggjs/egg-ant-design-pro) 
+
 # Egg Example for Ant Design Pro
 
 A full example with frontend([Ant Design Pro]) and backend([Egg.js]).
